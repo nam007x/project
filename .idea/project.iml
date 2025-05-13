@@ -122,6 +122,9 @@
       <excludeFolder url="file://$MODULE_DIR$/project/vendor/webmozart/assert" />
       <excludeFolder url="file://$MODULE_DIR$/storage/app" />
       <excludeFolder url="file://$MODULE_DIR$/storage/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/project/storage/app" />
+      <excludeFolder url="file://$MODULE_DIR$/project/storage/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/_laravel_idea" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

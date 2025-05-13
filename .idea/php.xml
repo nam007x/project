@@ -129,6 +129,7 @@
       <path value="$PROJECT_DIR$/project/vendor/symfony/deprecation-contracts" />
       <path value="$PROJECT_DIR$/project/vendor/symfony/error-handler" />
       <path value="$PROJECT_DIR$/project/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/project/vendor/_laravel_idea" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
